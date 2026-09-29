@@ -1,3 +1,4 @@
 # JogoMario
-Integrantes : KAIO MATHEUS MARQUES LUCENA 
-Curso : CC
+| Nome | Matrícula | Papel |
+|----------------|-----------|---------------|
+| Kaio Matheus | 01909182 | scrum lider/tudo |
